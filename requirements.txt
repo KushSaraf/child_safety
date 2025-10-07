@@ -1,0 +1,14 @@
+# Core web app
+Flask>=3.0.0
+
+# Data processing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# BLE scanning (Windows/Linux/macOS)
+bleak>=0.22.0
+
+# Optional: model demo utilities (only needed for running model/cctv_simulation.py)
+# ultralytics>=8.0.0
+# opencv-python>=4.8.0
+# requests>=2.31.0
